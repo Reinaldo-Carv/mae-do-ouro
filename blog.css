@@ -68,3 +68,15 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
+/* minhas ediçoes  */
+
+.banner{
+  max-width: 100%;
+}
+
+@media (min-width: 768px) {
+  .banner{
+      max-width: 200%;
+  }
+}
+
