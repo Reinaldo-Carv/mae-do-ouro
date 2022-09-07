@@ -1,3 +1,4 @@
+
 /* stylelint-disable selector-list-comma-newline-after */
 
 .blog-header {
@@ -68,16 +69,40 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
-/* minhas ediçoes  */
+/* minhas mudandças  */
+main{
+  background-color: #181818;
+  color: white;
+}
+
+body{
+  background-color: #181818;
+  color: white;
+}
+.blog-footer{
+  background-color: #181818;
+  color: white;
+}
+
 
 .banner{
   max-width: 100%;
 }
 
-
 @media (min-width: 768px) {
   .banner{
-      max-width: 200%;
+    max-width: 200%;
   }
 }
 
+p{
+  text-align: justify;
+}
+
+.blog-footer p{
+  text-align: center;  
+}
+
+.link-secondary{
+  color: aqua;
+}
