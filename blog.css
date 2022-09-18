@@ -70,15 +70,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* minhas mudandças  */
-main{
-  background-color: #181818;
-  color: white;
-}
 
 body{
   background-color: #181818;
   color: white;
 }
+
 .blog-footer{
   background-color: #181818;
   color: white;
@@ -103,6 +100,3 @@ p{
   text-align: center;  
 }
 
-.link-secondary{
-  color: aqua;
-}
